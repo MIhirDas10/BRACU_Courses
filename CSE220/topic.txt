@@ -1,0 +1,10 @@
+Array
+2D Array
+Linked List
+Doubly Linked Linked
+Stack
+Queue
+Hash
+Tree - BST
+Heap
+Graph

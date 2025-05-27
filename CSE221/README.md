@@ -1,4 +1,4 @@
-`As the course is changing constantly, rather than looking for lab assignments it's better to clear the concept of all the topics through logical thinking and simulations. So, I believe this will be helpfull more.`
+`As the course is changing constantly, rather than looking for lab assignments it's better to clear the concept of all the topics through logical thinking and simulations. So, I believe this will be more helpful.`
 
 
 

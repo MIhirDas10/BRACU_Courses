@@ -1,0 +1,3 @@
+At line no: 10 argument 2 type mismatch in function call: func
+
+Total errors: 1
